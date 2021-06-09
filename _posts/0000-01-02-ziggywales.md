@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+frank doesn't know ziggy from bob
 Use the left arrow to go back!
